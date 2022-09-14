@@ -1,0 +1,7 @@
+[Markdown Guide](https://www.markdownguide.org/basic-syntax/)
+
+
+
+Git bash é um terminal extendido para otimizar o uso do Git!
+
+https://git-scm.com/downloads
